@@ -1,0 +1,10 @@
+D:\Adisson\Secund\Secund.BL\bin\Debug\Secund.BL.dll
+D:\Adisson\Secund\Secund.BL\bin\Debug\Secund.BL.pdb
+D:\Adisson\Secund\Secund.BL\bin\Debug\Secund.BE.dll
+D:\Adisson\Secund\Secund.BL\bin\Debug\Secund.DA.dll
+D:\Adisson\Secund\Secund.BL\bin\Debug\MySql.Data.dll
+D:\Adisson\Secund\Secund.BL\bin\Debug\Secund.BE.pdb
+D:\Adisson\Secund\Secund.BL\bin\Debug\Secund.DA.pdb
+D:\Adisson\Secund\Secund.BL\obj\Debug\Secund.BL.csprojResolveAssemblyReference.cache
+D:\Adisson\Secund\Secund.BL\obj\Debug\Secund.BL.dll
+D:\Adisson\Secund\Secund.BL\obj\Debug\Secund.BL.pdb

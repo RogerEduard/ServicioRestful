@@ -1,0 +1,4 @@
+D:\Adisson\Secund\Secund.BE\bin\Debug\Secund.BE.dll
+D:\Adisson\Secund\Secund.BE\bin\Debug\Secund.BE.pdb
+D:\Adisson\Secund\Secund.BE\obj\Debug\Secund.BE.dll
+D:\Adisson\Secund\Secund.BE\obj\Debug\Secund.BE.pdb
